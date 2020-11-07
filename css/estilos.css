@@ -1,0 +1,80 @@
+
+body{
+    background-color: rgba(76, 123, 165, 0.952);    
+    font: 1em/150% Arial, Helvetica, Sans-serif;
+
+}
+
+
+
+h1{
+    
+    font-size: 65px;
+    font-family: 'Acens';
+    text-align: match-parent;
+    
+}
+
+#pagewrap{
+
+    padding: 25px;
+    width: 1980px;
+    margin: 20px auto;
+
+}
+
+#header{
+
+    height: 150px;
+    border-radius: 6px; 
+
+}
+
+#titulo{
+
+    text-align: center;
+    height: 100px;
+
+}
+
+#caza1{
+
+    margin-top: 150px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+}
+
+#imagen2{
+
+    border-radius: 15px;
+    border-image: 15px;
+}
+
+#content{
+    height: 280px;
+    
+
+}
+
+h2{
+    font:  50px/100% Arial, Helvetica, Sans-serif;
+    text-align: justify;
+    
+}
+H3{
+    font:  40px/100% Arial, Helvetica, Sans-serif;
+    text-align: justify;
+}
+
+@font-face{
+
+    font-family: 'Acens';
+    src: url('../fonts/Acens.eot');
+    src: url('../fonts/Acens.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Acens.woff') format('woff'),
+         url('../fonts/Acens.woff2') format('woff2'),
+         url('../fonts/Acens.ttf') format('truetype'),
+         url('../fonts/Acens.svg#Acens') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
